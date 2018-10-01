@@ -16,6 +16,7 @@ var defaultSupportChannels = []string{
 	"customersupport",
 	"frame",
 	"monitoring",
+	"sentry",
 }
 
 var slackKey string
